@@ -1,10 +1,11 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [AnKiT](https://github.com/ankit-chaubey) | [![Profile views](https://gpvc.arturio.dev/ankit-chaubey)](https://github.com/ankit-chaubey)
-I am 22 y.o. college student from Delhi, India🇮🇳 |
+## Hey there! 👋🏻 I'm [Ankit Chaubey](https://t.me/chaubey_ankit)
 
-- **Currently working on: Python, Go, C, C++ etc**
+I'm a 22 y.o college student from Delhi, India 🇮🇳
 
-## find me out at
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/ankit_chaubey)
+- **Currently Learning:** Python, Go, C, C++, and more! I'm all about multitasking... but let's be honest, my first love is still sleep 💤
+
+## Contact me:
+[![Telegram](https://img.shields.io/badge/Telegram-00008b.svg?style=for-the-badge&logo=telegram)](https://t.me/ankit_chaubey) [![Telgram Bot](https://img.shields.io/badge/Contact_Me_bot-00FFFF.svg?style=for-the-badge&logo=telegram)](https://t.me/ChaubeyBot)
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ankit-chaubey&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ankit-chaubey)
