@@ -4,13 +4,17 @@ I'm a 22 y.o college student from Delhi, India 🇮🇳
 
 - **Currently Learning:** Python, Go, C, C++, and more! I'm all about multitasking... but let's be honest, my first love is still sleep 💤
 
-## Contact me:
+## Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-00008b.svg?style=for-the-badge&logo=telegram)](https://t.me/ankit_chaubey) [![Telgram Bot](https://img.shields.io/badge/Contact_Me_bot-00FFFF.svg?style=for-the-badge&logo=telegram)](https://t.me/ChaubeyBot)
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ankit-chaubey&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ankit-chaubey)
 [![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=ankit-chaubey&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/ankit-chaubey)
 [![ankit-chaubey's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit-chaubey&theme=cobalt)](https://github.com/ankit-chaubey/github-readme-streak-stats)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-chaubey&theme=cobalt" alt="ankit-chaubey profile summary" />
+</p>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
