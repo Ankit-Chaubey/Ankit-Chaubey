@@ -14,9 +14,4 @@ I'm a 22 y.o college student from Delhi, India 🇮🇳
 
 [![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-chaubey&theme=cobalt)](https://github.com/ankit-chaubey)
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ankit-chaubey)
-
-</details
+<p align="left"> <a href="https://github.com/ankit-chaubey"><img src="https://github-profile-trophy.vercel.app/?username=ankit-chaubey&theme=juicyfresh&no-bg=true&no-frame=true&column=4&" alt="ankit chaubey" /></a> </p>
