@@ -1,4 +1,4 @@
-## Hey there! 👋🏻 I'm [Ankit Chaubey](https://t.me/chaubey_ankit)
+## Hey there! 👋🏻 I'm [Ankit Chaubey](https://t.me/chaubey_ankit) 🎉 <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-chaubey" alt="ankit-chaubey" />
 
 I'm a 22 y.o college student from Delhi, India 🇮🇳
 
@@ -9,12 +9,10 @@ I'm a 22 y.o college student from Delhi, India 🇮🇳
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ankit-chaubey&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ankit-chaubey)
-[![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=ankit-chaubey&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/ankit-chaubey)
+[![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=vasu-xd&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/ankit-chaubey)
 [![ankit-chaubey's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit-chaubey&theme=cobalt)](https://github.com/ankit-chaubey/github-readme-streak-stats)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-chaubey&theme=cobalt" alt="ankit-chaubey profile summary" />
-</p>
+[![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-chaubey&theme=cobalt)](https://github.com/ankit-chaubey)
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
